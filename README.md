@@ -1,4 +1,4 @@
-### This is a personal portfolio
+### Hi there 👋
 
 <!--
 **jacobLammertGit/jacobLammertGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
