@@ -117,16 +117,6 @@ nav ul li a:hover::after{
 }
 
 /********Skills*********/
-#skills{
-    padding: 40px 0;
-    margin: 0 60px;
-}
-
-.skills-header{
-    font-size: 60px;
-    color: #fff;
-}
-
 .skills-logos{
     display: flex;
     justify-content: space-around;
@@ -242,6 +232,11 @@ nav ul li a:hover::after{
     margin-right: 15px;
     font-size: 25px;
     cursor: pointer;
+}
+
+.contact-left p a{
+    text-decoration: none;
+    color: #fff;
 }
 
 .social-icons{
