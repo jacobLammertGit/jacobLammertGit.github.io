@@ -102,12 +102,13 @@ nav ul li a:hover::after{
 }
 
 .about-col-1 img{
-    width: 100%;
+    width: 90%;
     border-radius: 50%;
 }
 
 .about-col-2{
     flex-basis: 60%;
+    font-size: 18px;
 }
 
 .sub-title{
@@ -360,7 +361,7 @@ nav .menu{
         margin-bottom: 30px;
     }
     .about-col-2{
-        font-size: 14px;
+        font-size: 16px;
     }
     .contact-left, .contact-right{
         flex-basis: 100%;
@@ -375,4 +376,9 @@ nav .menu{
     }
 }
 
+@media only screen and (min-width: 1350px){
+    .about-col-2{
+        font-size: 25px;
+    }
+}
 
