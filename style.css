@@ -181,7 +181,7 @@ nav ul li a:hover::after{
 }
 
 .layer a{
-    margin-top: 20px;
+    margin: 20px 5px 0px 5px;
     color: #0d7f19;
     text-decoration: none;
     font-size: 18px;
@@ -214,6 +214,11 @@ nav ul li a:hover::after{
 
 .btn:hover{
     background: #179a38;
+}
+
+.link-buttons{
+    display: flex;
+    justify-content: space-around;
 }
 
 /********Contact*********/
